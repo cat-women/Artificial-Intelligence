@@ -1,0 +1,4 @@
+Construct the given tree, write a depth first search function bool dfs(data) which should return true if the data is found in the tree else false.
+
+Construct the tree as in the previous question, write a breadth first search function bool bfs(data) which should return true if the data is found in the tree else false.
+Write a program to solve the N-Qu
