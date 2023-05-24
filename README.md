@@ -2,7 +2,7 @@
 It covers fundamental concepts artificial intelligence, problem solving" hrrowledge representation, neural networks,machine learning, natural language processing, machine vision and expert systems.
 
 ## Topic covered 
-  - N-eleen problem
+  - N-queen problem
   - Breadth-First Search
   - Depth-First Search
   - Depth-Limited Search
